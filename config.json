@@ -1,5 +1,6 @@
 {
   "version": "1.1",
+  "agent_url": "https://raw.githubusercontent.com/suporte-kuara/wallpaper-control/main/wallpaper.exe",
   "wallpaper": "https://raw.githubusercontent.com/suporte-kuara/wallpaper-control/main/wallpapers/wallpaper.jpg",
   "hash": "c539dcce1803d5f9692868f71544f4a5"
 }
