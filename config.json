@@ -1,7 +1,4 @@
 {
-  "version": "1.2",
-  "interval_hours": 6,
   "wallpaper": "https://raw.githubusercontent.com/suporte-kuara/wallpaper-control/main/wallpapers/wallpaper.jpg",
-  "hash": "a4ed72f638727566461fc5c3e819a284",
-  "agent_url": "https://raw.githubusercontent.com/suporte-kuara/wallpaper-control/main/Wallpaper.exe"
+  "hash": "a4ed72f638727566461fc5c3e819a284"
 }
