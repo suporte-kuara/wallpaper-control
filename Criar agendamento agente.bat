@@ -1,0 +1,1 @@
+schtasks /create /tn "Digitalmig Wallpaper Agent" /tr "\"C:\Program Files\Digitalmig\WallpaperAgent\DigitalmigWallpaperAgent.exe\"" /sc hourly /mo 1 /f
